@@ -155,3 +155,6 @@ Penzias, A., & Wilson, R. (1965). Measurement of excess antenna temperature.
 ## License
 
 This research paper is provided for academic and educational purposes.
+
+This work is licensed under a **Creative Commons Attribution 4.0 International License.**
+
